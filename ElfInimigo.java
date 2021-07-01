@@ -8,3 +8,4 @@ public class ElfInimigo {
 	Inimigo inimigo = new Inimigo();
 
 }
+
